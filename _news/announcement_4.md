@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Serving as **Leading Guest Editor** for the *Sustainability* special issue
-*International Economy, Business Ecosystems, and Entrepreneurship: Implications
-for Sustainable Energy Development*. Submissions welcome.
+Serving as **Leading Guest Editor** for the _Sustainability_ special issue
+_International Economy, Business Ecosystems, and Entrepreneurship: Implications
+for Sustainable Energy Development_. Submissions welcome.

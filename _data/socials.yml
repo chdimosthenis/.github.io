@@ -3,18 +3,18 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 
 # CV PDF
-cv_pdf: /assets/pdf/chatzinikolaou_cv.pdf       # path to your CV PDF (place your compiled PDF at this location)
+cv_pdf: /assets/pdf/chatzinikolaou_cv.pdf # path to your CV PDF (place your compiled PDF at this location)
 
 # Email & RSS
 email: dimos.chatzinikolaou@gmail.com
-rss_icon: true                                  # comment this line to hide the RSS icon
+rss_icon: true # comment this line to hide the RSS icon
 
 # Built-in academic & professional platforms (flat keys recognised by jekyll-socials)
-scholar_userid: 2naT3FkAAAAJ                    # Google Scholar ID
-orcid_id: 0000-0002-4138-8828                   # ORCID iD
-scopus_id: 57218321522                          # Scopus Author ID
-researchgate_userid: Dimos-Chatzinikolaou       # ResearchGate handle
-linkedin_username: dimos-chatzinikolaou         # LinkedIn vanity URL
+scholar_userid: 2naT3FkAAAAJ # Google Scholar ID
+orcid_id: 0000-0002-4138-8828 # ORCID iD
+scopus_id: 57218321522 # Scopus Author ID
+researchgate_userid: Dimos-Chatzinikolaou # ResearchGate handle
+linkedin_username: dimos-chatzinikolaou # LinkedIn vanity URL
 
 # Custom social blocks for academic-specialty platforms not in the built-in list.
 # Each block needs `logo:`, `title:`, and `url:`.

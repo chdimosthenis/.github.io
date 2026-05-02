@@ -15,8 +15,8 @@ profile:
     <p>Thessaloniki, Greece</p>
     <p><a href="mailto:dimos.chatzinikolaou@gmail.com">dimos.chatzinikolaou@gmail.com</a></p>
 
-selected_papers: true     # publications listed under selected={true} appear on the home page
-social: true              # Scholar / ORCID / LinkedIn / Scopus links from _data/socials.yml
+selected_papers: true # publications listed under selected={true} appear on the home page
+social: true # Scholar / ORCID / LinkedIn / Scopus links from _data/socials.yml
 announcements:
   enabled: false
 news: true
@@ -40,12 +40,12 @@ interested in how firms and ecosystems adapt under structural change, how
 strategic and managerial capabilities form, and how institutional and
 intermediary structures enable or constrain that adaptation.
 
-Recent and forthcoming work appears in *Strategy & Leadership*, *The Journal
-of Entrepreneurship*, *Journal of the Knowledge Economy*, *Journal of Global
-Responsibility*, *Journal of Economic Integration*, and *Journal of
-Entrepreneurship in Emerging Economies*. I currently serve as Leading Guest
-Editor for special issues of *Sustainability* and *Discover Global Society*,
-and as a member of the International Editorial Board of *Mercados y Negocios*.
+Recent and forthcoming work appears in _Strategy & Leadership_, _The Journal
+of Entrepreneurship_, _Journal of the Knowledge Economy_, _Journal of Global
+Responsibility_, _Journal of Economic Integration_, and _Journal of
+Entrepreneurship in Emerging Economies_. I currently serve as Leading Guest
+Editor for special issues of _Sustainability_ and _Discover Global Society_,
+and as a member of the International Editorial Board of _Mercados y Negocios_.
 
 I teach at MBA and undergraduate level in **Corporate Strategy, Globalization
 and International Business, Business Economics, Leadership and Innovation,

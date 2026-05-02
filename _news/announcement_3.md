@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Co-leading a *Discover Global Society* article collection on **Energy
+Co-leading a _Discover Global Society_ article collection on **Energy
 Geopolitics in a Transforming Global Order**. Manuscripts on energy security,
 transition pathways, and great-power competition are encouraged.
