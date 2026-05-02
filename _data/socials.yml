@@ -1,14 +1,20 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: you@example.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# -----------------------------------------------------------------------------
+# socials.yml — drop into _data/socials.yml (or merge into _config.yml under
+# the `social` block, depending on your al-folio version). Either works.
+# -----------------------------------------------------------------------------
+
+email:                    dimos.chatzinikolaou@gmail.com
+linkedin_username:        dimos-chatzinikolaou
+scholar_userid:           2naT3FkAAAAJ
+orcid_id:                 0000-0002-4138-8828
+scopus_id:                57218321522
+researchgate_userid:      Dimos-Chatzinikolaou
+publons_id:               AAL-6613-2020          # Web of Science / Publons
+semanticscholar_id:       120444095
+ssrn_id:                  3129895
+academia_userid:          DimosChatzinikolaou
+ideas_repec:              pch1894
+github_username:                                 # add later if you set one up
+twitter_username:                                # add later if you set one up
+mastodon_username:
+bluesky_url:
