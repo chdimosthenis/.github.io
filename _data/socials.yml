@@ -1,14 +1,51 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: you@example.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+
+# CV PDF
+cv_pdf: /assets/pdf/chatzinikolaou_cv.pdf       # path to your CV PDF (place your compiled PDF at this location)
+
+# Email & RSS
+email: dimos.chatzinikolaou@gmail.com
+rss_icon: true                                  # comment this line to hide the RSS icon
+
+# Built-in academic & professional platforms (flat keys recognised by jekyll-socials)
+scholar_userid: 2naT3FkAAAAJ                    # Google Scholar ID
+orcid_id: 0000-0002-4138-8828                   # ORCID iD
+scopus_id: 57218321522                          # Scopus Author ID
+researchgate_userid: Dimos-Chatzinikolaou       # ResearchGate handle
+linkedin_username: dimos-chatzinikolaou         # LinkedIn vanity URL
+
+# Custom social blocks for academic-specialty platforms not in the built-in list.
+# Each block needs `logo:`, `title:`, and `url:`.
+# Logos point to the official favicons of each service.
+
+publons_id:
+  logo: https://clarivate.com/wp-content/uploads/2024/06/cropped-favicon-32x32.png
+  title: Web of Science Researcher Profile
+  url: https://www.webofscience.com/wos/author/record/AAL-6613-2020
+
+ssrn_id:
+  logo: https://papers.ssrn.com/sol3/Data/favicon.ico
+  title: SSRN
+  url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3129895
+
+ideas_repec:
+  logo: https://ideas.repec.org/favicon.ico
+  title: IDEAS/RePEc
+  url: https://ideas.repec.org/f/pch1894.html
+
+semanticscholar_id:
+  logo: https://www.semanticscholar.org/favicon.ico
+  title: Semantic Scholar
+  url: https://www.semanticscholar.org/author/Dimos-Chatzinikolaou/120444095
+
+academia_userid:
+  logo: https://www.academia.edu/favicon.ico
+  title: Academia.edu
+  url: https://duth.academia.edu/DimosChatzinikolaou
+
+# To re-enable display:
+#  - in _pages/about.md change `social: false` back to `social: true`
+#  - in _config.yml change `enable_navbar_social: false` back to `true`
+#  - in _config.yml change `socials_in_search: false` back to `true`
